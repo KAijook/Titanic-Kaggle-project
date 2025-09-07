@@ -12,7 +12,7 @@ This project is a solution for the classic [Kaggle Titanic competition](https://
 
 ---
 
-  Typical libraries used:
+📄 Typical libraries used:
 - pandas
 - numpy
 - matplotlib / seaborn
@@ -20,19 +20,19 @@ This project is a solution for the classic [Kaggle Titanic competition](https://
  
 📊 Exploratory Data Analysis (EDA)
 Some insights discovered:
-Women and children had a higher survival rate.
-Passengers in higher classes (1st class) survived more often.
-Family size and ticket fare were useful engineered features.
-(Include plots or screenshots if you want.)
+- Women and children had a higher survival rate.
+- Passengers in higher classes (1st class) survived more often.
+- Family size and ticket fare were useful engineered features.
+- (Include plots or screenshots if you want.)
 
 📈 Model Performance
 
-Tried multiple classifiers and tuned hyperparameters with GridSearchCV.
-Random Forest gave the best results.
-Final model performance: Accuracy: 0.82 on validation set.
+- Tried multiple classifiers and tuned hyperparameters with GridSearchCV.
+- Random Forest gave the best results.
+- Final model performance: Accuracy: 0.82 on validation set.
 
 📌 Future Improvements
-Use ensemble stacking for better predictions.
-Experiment with neural networks.
-Add cross-validation for more robust evaluation.
+- Use ensemble stacking for better predictions.
+- Experiment with neural networks.
+- Add cross-validation for more robust evaluation.
 
